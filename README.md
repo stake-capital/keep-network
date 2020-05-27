@@ -7,8 +7,8 @@ Stake Capital KEEP address: https://etherscan.io/address/0xD078f1faE0bddB569309D
 
 ## Workers
 
-Operator 1: 0x1de632bb859b09e016bf189836a00a0d2d791d53
-Staking tx: https://etherscan.io/tx/0xb77dfd0965bc907554f215ee09edf29f444d3da0c589ef7fe4d5c784615e3051
+- Operator 1: 0x1de632bb859b09e016bf189836a00a0d2d791d53
+- Staking tx: https://etherscan.io/tx/0xb77dfd0965bc907554f215ee09edf29f444d3da0c589ef7fe4d5c784615e3051
 
 To pay fees: tx from 0x Staking Pool to KEEP worker: https://etherscan.io/tx/0xb18ab061b39d48d07e22fe47972790c63ae4b39ef919b7e0b869965d9b3f065d
 
