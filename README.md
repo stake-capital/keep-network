@@ -12,6 +12,8 @@ Stake Capital KEEP address: https://etherscan.io/address/0xD078f1faE0bddB569309D
 
 To pay fees: tx from 0x Staking Pool to KEEP worker: https://etherscan.io/tx/0xb18ab061b39d48d07e22fe47972790c63ae4b39ef919b7e0b869965d9b3f065d
 
+Authorize tx hash: https://etherscan.io/tx/0xa05f6a62d0eab6914e51cbb38728d0329877e3c0a443bc36a7027f9b09a05c07
+
 
 ## Staking information
 
